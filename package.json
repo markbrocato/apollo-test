@@ -1,5 +1,5 @@
 {
-    "name": "apollo-test",
+    "name: "apollo-test",
     "version": "1.0.0",
     "main": "scripts/moov_main.js",
     "private": true,
